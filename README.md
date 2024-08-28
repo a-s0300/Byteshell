@@ -1,12 +1,12 @@
 # Byteshell
 Byteshell - custom linux terminal
 
--- To compile : 
+- To compile : 
                 g++ -o byteshell byteshell.cpp -lreadline
--- To run      :
+- To run      :
                 ./byteshell
 
--- This shell can perform the following commands :
+- This shell can perform the following commands :
                 - cd directory
                     changes the current working directory
                 - ls
@@ -24,7 +24,7 @@ Byteshell - custom linux terminal
                 - exit
                     exits the program
 
--- Additional features : 
+- Additional features : 
                           command and filename/directory completition using TAB
                           maintains the command history which can be accessed using arrow keys
                           robust error handling capabilities
