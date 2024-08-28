@@ -6,7 +6,7 @@
 # To run      :
                 ```./byteshell```
 
-# This shell can perform the following commands :
+# This shell can perform the following commands 
  
                  **cd directory**
   
