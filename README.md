@@ -6,10 +6,10 @@ Byteshell - custom linux terminal
 - To run      :
                 ./byteshell
 
-- This shell can perform the following commands :
-                - cd directory
-                    changes the current working directory
-                - ls
+- This shell can perform the following commands : /n
+                - cd directory /n
+                    changes the current working directory /n
+                - ls /n
                     lists the files and folders in the current directory
                 - rename oldfilename newfilename
                     renames the file 
