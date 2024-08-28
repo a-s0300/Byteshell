@@ -39,7 +39,7 @@
                     exits the program
   
 
-#Additional features :
+### Additional features :
  
                   command and filename/directory completition using TAB
   
