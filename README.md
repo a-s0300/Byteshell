@@ -1,42 +1,42 @@
 # Byteshell - custom linux terminal
 
 
-#To compile : 
+# To compile : 
                 ```g++ -o byteshell byteshell.cpp -lreadline```  
-#To run      :
+# To run      :
                 ```./byteshell```
 
-#This shell can perform the following commands :
+# This shell can perform the following commands :
  
-                - cd directory
+                 **cd directory**
   
                     changes the current working directory  
                   
-                - ls
+                 **ls**
   
                     lists the files and folders in the current directory  
                   
-                - rename oldfilename newfilename
+                 **rename oldfilename newfilename**
   
                     renames the file
   
-                - touch filename
+                 **touch filename**
   
                     creates an empty file
   
-                - pwd
+                 **pwd**
   
                     prints the current working directory
   
-                - rm filename/directory
+                 **rm filename/directory**
   
                     removes the file/directory
   
-                - mkdir directory
+                 **mkdir directory**
   
                     creates a new directory
   
-                - exit
+                 **exit**
   
                     exits the program
   
