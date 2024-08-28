@@ -1,12 +1,10 @@
 # Byteshell - custom linux terminal
 
 
-# To compile : 
-                ```g++ -o byteshell byteshell.cpp -lreadline```  
-# To run      :
-                ```./byteshell```
+### To compile: ```g++ -o byteshell byteshell.cpp -lreadline```  
+### To run    : ```./byteshell```
 
-# This shell can perform the following commands :
+### This shell can perform the following commands :
  
                  cd directory
   
