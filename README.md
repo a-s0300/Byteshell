@@ -46,3 +46,7 @@
                   maintains the command history which can be accessed using arrow keys  
                   
                   robust error handling capabilities
+
+### Screenshot :
+                  
+![Screenshot from 2024-08-28 18-18-40](https://github.com/user-attachments/assets/d856753f-2473-4f53-9e09-6c08025f92a2)
