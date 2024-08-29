@@ -13,7 +13,7 @@ using namespace std;
 #define DELIMITER " \n\t\r"
 int main() {
     char* cmd;
-    cout << "**** Welcome to Byteshell ****" << endl;
+    cout << "                       __Welcome to Byteshell__            " << endl;
     rl_attempted_completion_function = custom_completion;
 
     while (true) {
