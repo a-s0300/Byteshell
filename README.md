@@ -4,7 +4,7 @@
 ### To compile: ```g++ -o byteshell byteshell.cpp -lreadline```  
 ### To run    : ```./byteshell```
 
-### This shell can perform the following commands :
+### This shell can perform the following built-in commands :
  
                  cd directory
   
@@ -41,11 +41,13 @@
 
 ### Additional features :
  
-                  command and filename/directory completition using TAB
+                  command and filename/directory completition
   
-                  maintains the command history which can be accessed using arrow keys  
+                  maintains the command history 
                   
                   robust error handling capabilities
+
+                  can perform other commands not built-in the program
 
 ### Screenshot :
                   
